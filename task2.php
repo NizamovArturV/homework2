@@ -1,4 +1,3 @@
-<pre>
 <?php
 
 $result2 = [
@@ -26,5 +25,4 @@ $result2 = [
 
 var_dump ($result2);
 
-?>
-</pre>
+
